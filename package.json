@@ -1,0 +1,13 @@
+{
+  "name": "ra-language-armenian",
+  "version": "1.0.0",
+  "description": "Armenian translations for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "repository": "https://github.com/mrdntgrn/ra-language-armenian.git",
+  "keywords": [
+    "react-admin",
+    "translation"
+  ],
+  "author": "Tigran Muradyan",
+  "license": "MIT"
+}
